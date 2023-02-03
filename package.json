@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ayseren/simple-mysql/issues"
   },
-  "homepage": "https://github.com/ayseren/simple-mysql#readme"
+  "homepage": "https://github.com/ayseren/simple-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "type": "module"
 }
